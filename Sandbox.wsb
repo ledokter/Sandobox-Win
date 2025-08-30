@@ -1,0 +1,9 @@
+<Configuration>
+   <MappedFolders>
+      <MappedFolder>
+         <HostFolder>C:\SANDBOX</HostFolder>
+         <ReadOnly>false</ReadOnly> <!-- mettre true si vous voulez lecture seule -->
+      </MappedFolder>
+   </MappedFolders>
+   <Networking>Enable</Networking> <!-- optionnel, active le réseau -->
+</Configuration>
